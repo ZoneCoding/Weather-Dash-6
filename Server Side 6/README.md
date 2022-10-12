@@ -9,7 +9,6 @@ Using weather api to find the weather of a certain city, such as the wind, tempu
 ## Thoughts
 A useful api that can be quickly enable into a cool widget
 
-had an emergency this weekend, wasn't able to accomplish mission
 
 ### Contact
 github:https://github.com/ZoneCoding
